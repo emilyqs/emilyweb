@@ -178,3 +178,21 @@ position: relative;
 .cont_text_inputs > input:nth-child(4){
   transition-delay: 0.8s;
 }
+
+#message{
+    background:#ff4e4e;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+#alertBox{
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: transalateX(-50%);
+    z-index: 999;
+  
+  
+
+
+  
