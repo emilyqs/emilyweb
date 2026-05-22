@@ -34,8 +34,4 @@ document.getElementById("loginForm").addEventListener("submit", async function(e
 } 
    
 });
-         <div id="alertBox" class="Alert" style="display:none;"></div>
-             </form>
-<script src="js/login.js"></script>
-</body>
-</html>
+         
